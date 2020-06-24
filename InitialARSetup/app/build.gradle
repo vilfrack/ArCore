@@ -3,6 +3,13 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'com.google.ar.sceneform.plugin'
 
+sceneform.asset(
+        'sampledata/models/dragon.obj',
+        'default',
+        'sampledata/models/dragon.sfa',
+        'src/main/res/raw/dragon'
+)
+
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
