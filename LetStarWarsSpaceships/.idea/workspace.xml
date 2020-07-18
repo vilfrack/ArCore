@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be375a22-9481-406f-a13c-36dfa998e897" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/androidTest/java/com/spaceships/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/java/com/spaceships/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/app/src/test/java/com/spaceships/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetStarWarsSpaceships/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\juan\source\repos\Android\ArCore\LetStarWarsSpaceships\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1esZkZrWYxWDGGbfjBlmIhlozOf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be375a22-9481-406f-a13c-36dfa998e897" name="Default Changelist" comment="" />
+      <created>1595112404672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595112404672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595112468955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1595112468955" />
+  </component>
+</project>
